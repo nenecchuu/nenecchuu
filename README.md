@@ -50,6 +50,7 @@ Currently focused on multi-tenant commerce infrastructure, AI-assisted media too
 - **Microservices** — service decomposition, contract-first design, observability.
 - **Legacy code** — incremental modernization, not rewrite-from-scratch.
 - **CI/CD** — GH Actions pipelines, automated testing, deterministic deploys.
+- **AI-assisted systems** — prompt engineering, RAG, LLM orchestration, agentic workflows, AI-driven media pipelines.
 
 ### Open to
 
