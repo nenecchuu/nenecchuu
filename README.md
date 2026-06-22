@@ -8,31 +8,25 @@ I work mostly in TypeScript and Go, with PHP and Python when the job calls for i
 
 ### What I work with
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts,js,go,php,python" alt="Languages" /></a>
-</p>
+**Languages**
+<p><a href="#"><img src="https://skillicons.dev/icons?i=ts,js,go,php,python" alt="Languages" /></a></p>
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel" alt="Frameworks" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,vue,angular,nuxt,astro" alt="Frontend" /></a>
-</p>
+**Frameworks & runtimes**
+<p><a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel" alt="Frameworks" /></a></p>
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Data" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,githubactions,kafka" alt="Infra" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux,git" alt="Tooling" /></a>
-</p>
+**Frontend**
+<p><a href="#"><img src="https://skillicons.dev/icons?i=react,vue,angular,nuxt,astro" alt="Frontend" /></a></p>
 
-**Languages** — TypeScript, JavaScript, Go, PHP, Python, SQL
-**Frameworks** — Node.js, Nest.js, Express, Laravel, Go stdlib
-**Frontend** — React, Vue, Angular, Nuxt, Astro
-**Data** — PostgreSQL, MySQL, MongoDB, Redis
-**Infra & messaging** — Docker, GitHub Actions, Kafka, WebSockets
-**API styles** — REST, GraphQL, Webhooks, OpenAPI
-**Auth** — JWT, OAuth2, session-based
-**Integrations (Indonesia-specific)** — 3PL / courier APIs, marketplace APIs, e-wallet & bank rails
-**Tooling** — Git, Linux, n8n, Claude Code, Codex
-**AI & agents** — Prompt engineering, RAG patterns, LLM orchestration, agentic workflows, AI-assisted media pipelines
+**Data**
+<p><a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Data" /></a></p>
+
+**Infra & messaging**
+<p><a href="#"><img src="https://skillicons.dev/icons?i=docker,githubactions,kafka" alt="Infra" /></a></p>
+
+**Tooling**
+<p><a href="#"><img src="https://skillicons.dev/icons?i=linux,git" alt="Tooling" /></a></p>
+
+**Also:** REST · GraphQL · Webhooks · OpenAPI · JWT · OAuth2 · WebSockets · 3PL / courier APIs · marketplace APIs · e-wallet & bank rails · n8n · Claude Code · Codex · prompt engineering · RAG · LLM orchestration · agentic workflows
 
 ---
 
