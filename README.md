@@ -35,6 +35,9 @@ JWT · OAuth2 · session-based
 **Tooling**
 Git · Linux · n8n · Claude Code · Codex
 
+**AI & agents**
+Prompt engineering · RAG patterns · LLM orchestration · agentic workflows (n8n + custom tools) · AI-assisted media pipelines
+
 ---
 
 ### Languages I actually write in
