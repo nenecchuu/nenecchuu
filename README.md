@@ -75,14 +75,14 @@ I work mostly in TypeScript and Go, with PHP and Python when the job calls for i
 
 ### Now
 
-- Pushing **[Mai Website](https://github.com/nenecchuu)** toward a usable v1 for marketplace sellers. Multi-tenant, custom domain, billing wiring.
-- Iterating on **[Disingkat](https://github.com/nenecchuu/disingkat)** — data-driven short-video cutting. Pipeline is the part I'm enjoying.
-- Long-running maintenance on **Luna POS** merchant & admin frontends (Nuxt 3, Vue 3, TS).
+- **[Mai Website](https://eja.maiweb.site)** — free websites for marketplace sellers. Multi-tenant, custom domain, billing.
+- **[Disingkat](https://github.com/nenecchuu/disingkat)** — data-driven short-video cutting.
+- **[Sedekah Subuh](https://github.com/nenecchuu/sedekah-subuh)** — Lazismu QRIS daily donation, GH Actions cron.
 
 ### Open to
 
 - Short-term consulting on commerce / POS / multi-tenant architecture.
-- Not actively job-hunting, but if a Mengantar-adjacent or tooling-heavy role comes up — open to a conversation.
+- Not actively job-hunting, but open to a conversation if a tooling-heavy role comes up.
 
 ---
 
