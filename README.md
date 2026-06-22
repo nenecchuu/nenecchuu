@@ -61,16 +61,12 @@ Mostly TypeScript & Go. PHP and Python when the job asks for it.
 ### 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nenecchuu&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nenecchuu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenecchuu&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nenecchuu&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nenecchuu&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
