@@ -8,35 +8,31 @@ I work mostly in TypeScript and Go, with PHP and Python when the job calls for i
 
 ### What I work with
 
-**Languages**
-TypeScript · JavaScript · Go · PHP · Python · SQL
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts,js,go,php,python" alt="Languages" /></a>
+</p>
 
-**Frameworks & runtimes**
-Node.js · Nest.js · Express · Laravel · Go stdlib
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel" alt="Frameworks" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,vue,angular,nuxt,astro" alt="Frontend" /></a>
+</p>
 
-**Frontend**
-React · Vue · Angular · Nuxt · Astro
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Data" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,githubactions,kafka" alt="Infra" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,git" alt="Tooling" /></a>
+</p>
 
-**Data**
-PostgreSQL · MySQL · MongoDB · Redis
-
-**Infra & messaging**
-Docker · GitHub Actions · Kafka · WebSockets
-
-**API styles**
-REST · GraphQL · Webhooks · OpenAPI
-
-**Auth**
-JWT · OAuth2 · session-based
-
-**Integrations (Indonesia-specific)**
-3PL / courier APIs · marketplace APIs (Shopee, Tokopedia, Lazada) · e-wallet & bank payment rails
-
-**Tooling**
-Git · Linux · n8n · Claude Code · Codex
-
-**AI & agents**
-Prompt engineering · RAG patterns · LLM orchestration · agentic workflows (n8n + custom tools) · AI-assisted media pipelines
+**Languages** — TypeScript, JavaScript, Go, PHP, Python, SQL
+**Frameworks** — Node.js, Nest.js, Express, Laravel, Go stdlib
+**Frontend** — React, Vue, Angular, Nuxt, Astro
+**Data** — PostgreSQL, MySQL, MongoDB, Redis
+**Infra & messaging** — Docker, GitHub Actions, Kafka, WebSockets
+**API styles** — REST, GraphQL, Webhooks, OpenAPI
+**Auth** — JWT, OAuth2, session-based
+**Integrations (Indonesia-specific)** — 3PL / courier APIs, marketplace APIs, e-wallet & bank rails
+**Tooling** — Git, Linux, n8n, Claude Code, Codex
+**AI & agents** — Prompt engineering, RAG patterns, LLM orchestration, agentic workflows, AI-assisted media pipelines
 
 ---
 
