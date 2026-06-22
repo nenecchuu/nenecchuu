@@ -1,69 +1,41 @@
 # Rezha
 
-Software engineer. Tech lead at Mengantar, long-term freelance on Luna POS, building small tools on the side. Bandung, ID.
+Software engineer. Building small tools and a few larger products. TypeScript & Go by default, PHP and Python when needed. Bandung, ID.
 
 I work mostly in TypeScript and Go, with PHP and Python when the job calls for it.
 
 ---
 
-### What I reach for
+### What I work with
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-<br>Go
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br>PHP
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-<br>Vue
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="Nuxt" />
-<br>Nuxt
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-<br>Laravel
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
-<br>Postgres
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br>Redis
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-<br>Actions
-</td>
-</tr>
-</table>
+**Languages**
+TypeScript · JavaScript · Go · PHP · Python · SQL
+
+**Frameworks & runtimes**
+Node.js · Nest.js · Express · Laravel · Go stdlib
+
+**Frontend**
+React · Vue · Angular · Nuxt · Astro
+
+**Data**
+PostgreSQL · MySQL · MongoDB · Redis
+
+**Infra & messaging**
+Docker · GitHub Actions · Kafka · WebSockets
+
+**API styles**
+REST · GraphQL · Webhooks · OpenAPI
+
+**Auth**
+JWT · OAuth2 · session-based
+
+**Integrations (Indonesia-specific)**
+3PL / courier APIs · marketplace APIs (Shopee, Tokopedia, Lazada) · e-wallet & bank payment rails
+
+**Tooling**
+Git · Linux · n8n · Claude Code · Codex
+
+---
 
 ### Languages I actually write in
 
@@ -71,18 +43,9 @@ I work mostly in TypeScript and Go, with PHP and Python when the job calls for i
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenecchuu&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
 ### Now
 
-- **[Mai Website](https://eja.maiweb.site)** — free websites for marketplace sellers. Multi-tenant, custom domain, billing.
-- **[Disingkat](https://github.com/nenecchuu/disingkat)** — data-driven short-video cutting.
-- **[Sedekah Subuh](https://github.com/nenecchuu/sedekah-subuh)** — Lazismu QRIS daily donation, GH Actions cron.
-
-### Open to
-
-- Short-term consulting on commerce / POS / multi-tenant architecture.
-- Not actively job-hunting, but open to a conversation if a tooling-heavy role comes up.
+Currently focused on multi-tenant commerce infrastructure, AI-assisted media tooling, and small deterministic automations.
 
 ### Systems I work with
 
@@ -94,6 +57,11 @@ I work mostly in TypeScript and Go, with PHP and Python when the job calls for i
 - **Microservices** — service decomposition, contract-first design, observability.
 - **Legacy code** — incremental modernization, not rewrite-from-scratch.
 - **CI/CD** — GH Actions pipelines, automated testing, deterministic deploys.
+
+### Open to
+
+- Short-term consulting on commerce / POS / multi-tenant architecture.
+- Not actively job-hunting, but open to a conversation if a tooling-heavy role comes up.
 
 ---
 
