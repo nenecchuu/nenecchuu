@@ -84,6 +84,17 @@ I work mostly in TypeScript and Go, with PHP and Python when the job calls for i
 - Short-term consulting on commerce / POS / multi-tenant architecture.
 - Not actively job-hunting, but open to a conversation if a tooling-heavy role comes up.
 
+### Systems I work with
+
+- **API services** — REST and GraphQL, versioned, documented at the contract level.
+- **Web apps** — SPA, SSR, multi-tenant dashboards, role-based access.
+- **Async pipelines** — event-driven work, queue consumers, scheduled jobs.
+- **Data layer** — relational schemas, reporting queries, denormalization where it pays off.
+- **Multi-courier / payment integrations** — Indonesian 3PL landscape, e-wallet and bank rails.
+- **Microservices** — service decomposition, contract-first design, observability.
+- **Legacy code** — incremental modernization, not rewrite-from-scratch.
+- **CI/CD** — GH Actions pipelines, automated testing, deterministic deploys.
+
 ---
 
 📫 [rezhasdf@gmail.com](mailto:rezhasdf@gmail.com) · [eja.maiweb.site](https://eja.maiweb.site) · [LinkedIn](https://linkedin.com/in/eyja)
