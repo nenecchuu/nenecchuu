@@ -1,15 +1,16 @@
 <div align="center">
 
-# Hi, I'm Eja
+# Hi, I'm Rezha
 
-**Full-stack engineer.** Building tools and dashboards that actually ship.
-Mostly TypeScript & Go. PHP and Python when the job asks for it.
+**I build small products for real problems.** Mostly commerce, ops, and the kind of tooling that makes work faster.
+
+Currently shipping: **[Mai Website](https://eja.maiweb.site)** — free websites for marketplace sellers — and **[Disingkat](https://github.com/nenecchuu/disingkat)**, a data-driven approach to cutting long video into shorts.
 
 </div>
 
 ---
 
-### 🛠️ Daily drivers
+### 🛠️ Stack I actually use
 
 <table>
 <tr>
@@ -71,15 +72,4 @@ Mostly TypeScript & Go. PHP and Python when the job asks for it.
 
 ---
 
-### 📌 Currently pinned
-
-<div align="center">
-  <a href="https://github.com/nenecchuu/lizbeth"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nenecchuu&repo=lizbeth&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/nenecchuu/laravel-react-boilerplate"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nenecchuu&repo=laravel-react-boilerplate&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/nenecchuu/disingkat"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nenecchuu&repo=disingkat&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/nenecchuu/go-ca-boilerplate"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nenecchuu&repo=go-ca-boilerplate&theme=tokyonight&hide_border=true" /></a>
-</div>
-
----
-
-<sub>📫 Reach me via the channels on the right sidebar.</sub>
+<sub>📫 Bandung, ID · <a href="https://eja.maiweb.site">eja.maiweb.site</a> · <a href="https://linkedin.com/in/eyja">LinkedIn</a></sub>
